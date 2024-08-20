@@ -1,0 +1,4 @@
+D:\CLion\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/CLion/bin/ninja/win/ninja.exe -G Ninja -S E:\c-source\c-mathstatus -B E:\c-source\c-mathstatus\cmake-build-debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/c-source/c-mathstatus/cmake-build-debug

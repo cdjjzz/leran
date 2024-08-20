@@ -1,0 +1,6 @@
+E:/c-source/c-mathstatus/cmake-build-debug/CMakeFiles/c_mathstatus.dir
+E:/c-source/c-mathstatus/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/c-source/c-mathstatus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+E:/c-source/c-mathstatus/cmake-build-debug/src/CMakeFiles/LIB.dir
+E:/c-source/c-mathstatus/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+E:/c-source/c-mathstatus/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir

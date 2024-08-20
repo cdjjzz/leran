@@ -1,0 +1,22 @@
+# ninja log v5
+2	66	7455900814227154	CMakeFiles/c_mathstatus.dir/main.c.obj	46c3cd22662a42c6
+8	248	7230146983320036	src/CMakeFiles/LIB.dir/linnerList/SequenceListMain.c.obj	3b171d9678b754fa
+82	429	7230146985125899	src/CMakeFiles/LIB.dir/linnerList/SequenceList.c.obj	c9e2b3910e50a5c
+5	585	7230146986697621	src/CMakeFiles/LIB.dir/linnerList/Polynomial.c.obj	eab0f22ec4fffcce
+248	613	7230146986976869	src/CMakeFiles/LIB.dir/linnerList/SinglyLinkedList.c.obj	f0d4fde73221e033
+823	1063	7230146991224219	src/CMakeFiles/LIB.dir/stack/LinkQueue.c.obj	83ff6af675a6a776
+429	675	7230146987587179	src/CMakeFiles/LIB.dir/stack/Conversion.c.obj	4b2c1d0e963f1259
+585	809	7230146988813911	src/CMakeFiles/LIB.dir/linnerList/SinglyLinkedListMain.c.obj	4e8b2017a3889fc6
+676	784	7230146988624417	src/CMakeFiles/LIB.dir/stack/SequenceStack.c.obj	29da51ba1545112d
+1399	1660	7230146997453999	src/libLIB.a	5ffedb75bad83411
+613	823	7230146989073217	src/CMakeFiles/LIB.dir/linnerList/StaticLinkedList.c.obj	9167b21ee148316e
+784	1132	7230146992171679	src/CMakeFiles/LIB.dir/stack/Expression.c.obj	e802f78c9a251d67
+1063	1176	7230146992600692	src/CMakeFiles/LIB.dir/stack/stack.c.obj	8f60c0b0032c511d
+1132	1251	7230146993358680	src/CMakeFiles/LIB.dir/stack/SequenceStackMain.c.obj	79c7c12bfcb4c73a
+810	1297	7230146993807623	src/CMakeFiles/LIB.dir/stack/Maze.c.obj	8c67d681b91c94d4
+1252	1380	7230146994641158	src/CMakeFiles/LIB.dir/Status.c.obj	6eb2f8e02781e969
+1176	1399	7230146994840738	src/CMakeFiles/LIB.dir/string/SequenceString.c.obj	dd9f7e6d51243e99
+66	152	7455900815044968	../bin/c_mathstatus.exe	2b378d29b35467ed
+2	508	7458399080744710	src/CMakeFiles/LIB.dir/stack/rb.c.obj	d6a3e94f142792c9
+509	768	7458399083319880	src/libLIB.a	f80132315c436ef3
+768	1200	7458399087634940	../bin/c_mathstatus.exe	2b378d29b35467ed
